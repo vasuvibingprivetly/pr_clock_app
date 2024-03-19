@@ -41,12 +41,12 @@ The clock app aims to provide users with a comprehensive and versatile timekeepi
 
 ## ScreenShorts
 
-<img src="https://github.com/vasuvibingprivetly/Pr-clock-app/assets/143987026/fdf25353-3c21-4efc-9cd0-88edada5f413" width="250px">
-<img src="https://github.com/vasuvibingprivetly/Pr-clock-app/assets/143987026/f3d92ef3-ae1a-4826-9ed4-8a003c1dab35" width="250px">
-<img src="https://github.com/vasuvibingprivetly/Pr-clock-app/assets/143987026/0f460f15-c1d9-4e8c-a39b-ba3a627309fb" width="250px">
-<img src="https://github.com/vasuvibingprivetly/Pr-clock-app/assets/143987026/c561891c-047a-408b-b680-8de24f7616bf" width="250px">
-<img src="https://github.com/vasuvibingprivetly/Pr-clock-app/assets/143987026/d26e0793-a85f-438f-8411-4bcab4ab5b58" width="250px">
-<img src="https://github.com/vasuvibingprivetly/Pr-clock-app/assets/143987026/d69bfef1-5964-41c9-94c5-544f795aad2e" width="250px">
-<img src="https://github.com/vasuvibingprivetly/Pr-clock-app/assets/143987026/c4afbb13-3844-43df-9534-1dbe72e8a0a3" width="250px">
-<img src="https://github.com/vasuvibingprivetly/Pr-clock-app/assets/143987026/fc886dab-4c4b-4972-90c8-4003d16d64c6" width="250px">
-<img src="https://github.com/vasuvibingprivetly/Pr-clock-app/assets/143987026/d48eda1e-4338-4b23-9a5b-46d9faff443c" width="250px">
+<img src="https://github.com/vasuvibingprivetly/pr_clock_app/assets/143987026/fdf25353-3c21-4efc-9cd0-88edada5f413" width="250px">
+<img src="https://github.com/vasuvibingprivetly/pr_clock_app/assets/143987026/f3d92ef3-ae1a-4826-9ed4-8a003c1dab35" width="250px">
+<img src="https://github.com/vasuvibingprivetly/pr_clock_app/assets/143987026/0f460f15-c1d9-4e8c-a39b-ba3a627309fb" width="250px">
+<img src="https://github.com/vasuvibingprivetly/pr_clock_app/assets/143987026/c561891c-047a-408b-b680-8de24f7616bf" width="250px">
+<img src="https://github.com/vasuvibingprivetly/pr_clock_app/assets/143987026/d26e0793-a85f-438f-8411-4bcab4ab5b58" width="250px">
+<img src="https://github.com/vasuvibingprivetly/pr_clock_app/assets/143987026/d69bfef1-5964-41c9-94c5-544f795aad2e" width="250px">
+<img src="https://github.com/vasuvibingprivetly/pr_clock_app/assets/143987026/c4afbb13-3844-43df-9534-1dbe72e8a0a3" width="250px">
+<img src="https://github.com/vasuvibingprivetly/pr_clock_app/assets/143987026/fc886dab-4c4b-4972-90c8-4003d16d64c6" width="250px">
+<img src="https://github.com/vasuvibingprivetly/pr_clock_app/assets/143987026/d48eda1e-4338-4b23-9a5b-46d9faff443c" width="250px">
